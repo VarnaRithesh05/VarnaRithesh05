@@ -141,7 +141,8 @@
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=VarnaRithesh05&show_icons=true&theme=oceanic&icon_color=38bdf8&title_color=0ea5e9&text_color=ffffff" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=VarnaRithesh05&show_icons=true&theme=tokyonight&icon_color=22d3ee&title_color=7c3aed&text_color=ffffff&count_private=true" width="48%"/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarnaRithesh05&layout=compact&theme=tokyonight&title_color=7c3aed&text_color=ffffff" width="48%"/>
 
 
