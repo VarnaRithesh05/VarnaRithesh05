@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=220&color=0:0f766e,50:0ea5e9,100:38bdf8&text=👨‍💻%20Hi%20there,%20I'm%20Varna%20Rithesh&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=DevOps%20Engineer%20•%20Database%20Architect%20•%20Google%20Cloud%20Certified&descAlignY=35&descSize=20&descColor=020617"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=220&color=0:0f766e,50:0ea5e9,100:38bdf8&text=👨‍💻%20Hi%20there,%20I'm%20Varna%20Rithesh&fontSize=45&fontColor=00ffff&animation=fadeIn&desc=DevOps%20Engineer%20•%20Database%20Architect%20•%20Google%20Cloud%20Certified&descAlignY=35&descSize=20&descColor=ffffff"/>
 
 <br><br>
 
-<p><em>Architecting Databases • Deploying in the Cloud • Innovating with AI</em></p>
+<p style="font-family: 'Courier New', Consolas, monospace; color: #38bdf8; font-size: 18px; font-weight: bold; font-style: italic;">Architecting Databases • Deploying in the Cloud • Innovating with AI</p>
 
 <br>
 
