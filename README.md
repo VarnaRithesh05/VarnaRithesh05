@@ -10,7 +10,6 @@
 
   <br>
 
-</div>
 <a href="https://www.linkedin.com/in/varna-rithesh-a2491a1b4/">
   <img src="https://img.shields.io/badge/LinkedIn-0f766e?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
