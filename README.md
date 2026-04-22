@@ -3,7 +3,7 @@
 # 👨‍💻 Hi there, I'm Varna Rithesh <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=80&lines=DevOps+Engineer;Database+Architect;Google+Cloud+Certified;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1500&color=38BDF8&center=true&vCenter=true&width=800&height=80&lines=>_sudo+systemctl+start+devops;>_connecting_to_database...;>_authenticating_google_cloud...;>_access_granted!" alt="Typing SVG" />
 </a>
 
 <p><em>Architecting Databases • Deploying in the Cloud • Innovating with AI</em></p>
