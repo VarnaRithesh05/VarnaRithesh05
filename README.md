@@ -1,22 +1,11 @@
 <div align="center">
 
-<details>
-  <summary style="cursor: pointer;">
-    <h2>👨‍💻 Hi there, I'm Varna Rithesh 👋 <em>(Click me!)</em></h2>
-  </summary>
-  
-  <br>
-  
-  <p><em>Welcome to my command center. 🚀</em></p>
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=50&lines=DevOps+Engineer+⚙️;Database+Architect+🗄️;Google+Cloud+Certified+☁️" alt="Typing SVG" />
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=220&color=0:0f766e,50:0ea5e9,100:38bdf8&text=👨‍💻%20Hi%20there,%20I'm%20Varna%20Rithesh&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=DevOps%20Engineer%20•%20Database%20Architect%20•%20Google%20Cloud%20Certified&descAlignY=35&descSize=20&descColor=020617"/>
 
-</details>
+<br><br>
 
-<br>
 <p><em>Architecting Databases • Deploying in the Cloud • Innovating with AI</em></p>
+
 <br>
 
 </div>
