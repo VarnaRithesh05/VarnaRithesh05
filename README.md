@@ -1,11 +1,9 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=2000&color=ffffff&center=true&vCenter=true&width=800&height=60&lines=👨‍💻+Hi+there,+I'm+Varna+Rithesh+👋" alt="Typing Name" />
-</a>
+# 👨‍💻 Hi there, I'm Varna Rithesh <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=60&lines=DevOps+Engineer;Database+Architect;Google+Cloud+Certified" alt="Typing Roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=500&color=38BDF8&center=true&vCenter=true&width=800&height=80&lines=D3v0ps+Engin33r;Database+Architect;G00gl3+Cloud+C3rtifi3d;DevOps+Engineer;Google+Cloud+Certified" alt="Typing SVG" />
 </a>
 
 <p><em>Architecting Databases • Deploying in the Cloud • Innovating with AI</em></p>
