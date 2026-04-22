@@ -1,12 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=220&color=0:020617,50:0f766e,100:0ea5e9&text=%F0%9F%9A%80%20Varna%20Rithesh&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=DevOps%20Engineer%20%E2%80%A2%20Database%20Architect%20%E2%80%A2%20Google%20Cloud%20Certified&descAlignY=70&descSize=20&descColor=38bdf8"/>
+<details>
+  <summary style="cursor: pointer;">
+    <h2>👨‍💻 Hi there, I'm Varna Rithesh 👋 <em>(Click me!)</em></h2>
+  </summary>
+  
+  <br>
+  
+  <p><em>Welcome to my command center. 🚀</em></p>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=50&lines=DevOps+Engineer+⚙️;Database+Architect+🗄️;Google+Cloud+Certified+☁️" alt="Typing SVG" />
+  </a>
 
-<br><br>
-
-<p><em>Architecting Databases • Deploying in the Cloud • Innovating with AI</em></p>
+</details>
 
 <br>
+<p><em>Architecting Databases • Deploying in the Cloud • Innovating with AI</em></p>
+<br>
+
+</div>
 <a href="https://www.linkedin.com/in/varna-rithesh-a2491a1b4/">
   <img src="https://img.shields.io/badge/LinkedIn-0f766e?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
