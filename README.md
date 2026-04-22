@@ -1,10 +1,8 @@
 <div align="center">
 
-# 👨‍💻 Hi there, I'm Varna Rithesh <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,50:0f766e,100:0ea5e9&text=👨‍💻%20Hi%20there,%20I'm%20Varna%20Rithesh&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=DevOps%20Engineer%20•%20Database%20Architect%20•%20Google%20Cloud%20Certified&descAlignY=70&descSize=20&descColor=38bdf8"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=500&color=38BDF8&center=true&vCenter=true&width=800&height=80&lines=D3v0ps+Engin33r;Database+Architect;G00gl3+Cloud+C3rtifi3d;DevOps+Engineer;Google+Cloud+Certified" alt="Typing SVG" />
-</a>
+<br><br>
 
 <p><em>Architecting Databases • Deploying in the Cloud • Innovating with AI</em></p>
 
