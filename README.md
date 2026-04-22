@@ -1,13 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=220&color=0:0f766e,50:0ea5e9,100:38bdf8&text=👨‍💻%20Hi%20there,%20I'm%20Varna%20Rithesh&fontSize=45&fontColor=fbbf24&animation=fadeIn&desc=DevOps%20Engineer%20•%20Database%20Architect%20•%20Google%20Cloud%20Certified&descAlignY=35&descSize=20&descColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=220&color=0:0f766e,50:0ea5e9,100:38bdf8&text=👨‍💻%20Hi%20there,%20I'm%20Varna%20Rithesh&fontSize=45&fontColor=020617&animation=fadeIn&desc=DevOps%20Engineer%20•%20Database%20Architect%20•%20Google%20Cloud%20Certified&descAlignY=35&descSize=20&descColor=0f172a" alt="Varna Rithesh Header" />
 
-<br><br>
-<br><br>
+  <br><br>
 
-<p style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; color: #fbbf24; font-size: 19px; font-weight: 600; letter-spacing: 1px;"><em>Architecting Databases • Deploying in the Cloud • Innovating with AI</em></p>
+  <p style="font-family: Georgia, 'Times New Roman', Times, serif; color: #7dd3fc; font-size: 20px; font-style: italic; letter-spacing: 0.5px; margin-top: 10px;">
+    Architecting Databases • Deploying in the Cloud • Innovating with AI
+  </p>
 
-<br>
+  <br>
 
 </div>
 <a href="https://www.linkedin.com/in/varna-rithesh-a2491a1b4/">
