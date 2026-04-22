@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=220&color=0:0f766e,50:0ea5e9,100:38bdf8&text=👨‍💻%20Hi%20there,%20I'm%20Varna%20Rithesh&fontSize=45&fontColor=020617&animation=fadeIn&desc=DevOps%20Engineer%20•%20Database%20Architect%20•&descAlignY=35&descSize=20&descColor=0f172a" alt="Varna Rithesh Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=220&color=0:0f766e,50:0ea5e9,100:38bdf8&text=👨‍💻%20Hi%20there,%20I'm%20Varna%20Rithesh&fontSize=45&fontColor=020617&animation=fadeIn&desc=DevOps%20Engineer%20•%20Database%20Architect%20&descAlignY=35&descSize=20&descColor=0f172a" alt="Varna Rithesh Header" />
 
   <br><br>
 
