@@ -44,7 +44,7 @@
 <h2>🏆 Achievements & Community <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="35" /></h2>
 
 <p>☁️ <strong>Google Cloud Certified</strong> – Demonstrated expertise in cloud infrastructure and deployment</p>
-<p>🚀 <strong>Hackathon Veteran & Lead</strong> – Backend and infrastructure architect for events like Horcrux 2.0, Hackkshetra, and HyperAPI</p>
+<p>🚀 <strong>Hackathon Veteran & Lead</strong> – Backend and infrastructure architect for events like Hackkshetra, and VibeAthon(by Replit)</p>
 
 </div>
 
